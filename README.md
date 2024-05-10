@@ -7,4 +7,5 @@ This helps me learn and code advanced topics in SQL like:
 4. AGGREGATION Functions
 5. CASE STATEMENTs
 
-I'll also be uploading the SQL code file which will help you run the code directly without writing anything.
+I'll also be uploading the SQL code file and PDF with results to validate yourself, which will help you run the code directly without writing anything.
+Please DM me on Linkedin: www.linkedin.com/in/amoljalda if you find any output is wrong to help me resolve.
