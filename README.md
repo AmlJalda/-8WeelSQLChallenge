@@ -1,2 +1,2 @@
 # -8WeelSQLChallenge
-This is 8 weeks SQL challenge repositry where I'll be upload other SQL Case Studies created by Danny Ma
+This is an 8-week SQL challenge repository where I'll be uploading other SQL Case Studies created by Danny Ma.
