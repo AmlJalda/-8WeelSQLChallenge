@@ -1,4 +1,4 @@
-# -8WeelSQLChallenge
+# 8WeelSQLChallenge
 This is an 8-week SQL challenge repository where I'll upload other SQL Case Studies created by Danny Ma.
 This helps me learn and code advanced topics in SQL like:
 1. CTEs
